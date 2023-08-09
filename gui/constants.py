@@ -1,0 +1,5 @@
+JOURNAL = 'Журнал'
+TESTS = 'Тесты'
+TESTS_FOR_PERIOD = 'Тесты за период'
+REPORT = 'Отчет'
+REPORT_FOR_PERIOD = 'Отчет за период'

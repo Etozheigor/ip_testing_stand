@@ -1,0 +1,13 @@
+.venv
+venv/
+__pycache__/
+.vscode
+.db
+sqlite.db
+vscode/
+.log
+/logs
+logs
+q.txt
+.reports
+.xlsx
